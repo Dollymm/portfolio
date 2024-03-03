@@ -3,14 +3,14 @@
 const ProjectsData = [
 
         {
-            image:'/assets/aarush1.png',
+            image:'https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?w=996&t=st=1709485697~exp=1709486297~hmac=e354876b3a03e7c4c8a8df04c2aa451c1e5153423f74144d9419f033c9f6a3a1',
             name:'Project 1',
             link:'',
             live:'',
     
         },
         {
-            image:'',
+            image:'https://img.freepik.com/free-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_181624-22807.jpg?w=996&t=st=1709485697~exp=1709486297~hmac=e354876b3a03e7c4c8a8df04c2aa451c1e5153423f74144d9419f033c9f6a3a1',
             name:'project2',
             link:'',
             live:'',
