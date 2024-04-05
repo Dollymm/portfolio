@@ -51,7 +51,7 @@ const Form = () => {
     const sendEmail = (e) => {
       e.preventDefault();
   
-      emailjs.sendForm('service_qwehe62', 'template_9ov3i7a',form.current, 'ZrX4X_IoPovPpwQo7')
+      emailjs.sendForm('service_b1rcntm', 'template_hc0vjpr',form.current, 'SSnqSAARwCoJ8PNbX')
         .then((result) => {
             console.log(result);
         }, (error) => {

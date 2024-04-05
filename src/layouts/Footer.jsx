@@ -20,7 +20,7 @@ const Footer = () => {
       </Box>
    
     </Box>
-    <Typography sx={{fontSize:'20px', fontWeight:'600', mt:'20px'}}>Designed By Me 💖</Typography>
+    <Typography sx={{fontSize:'20px', fontWeight:'600', mt:'20px'}}>Designed By Dolly Mamgai</Typography>
    </Box>
   )
 }
